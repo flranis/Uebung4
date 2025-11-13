@@ -22,7 +22,7 @@ public class H2_main {
 			y = false;
 		}
 
-		if (x && y == true) {
+		if (x == true && y == true) {
 			a = true;
 		} else {
 			a = false;

@@ -3,9 +3,9 @@ package h3;
 public class H3_main {
 	public static void main(String[] args) {
 		
-		float celsiusFloat = 7.346789249256583f;
+		float celsiusFloat = 14.249378f;
 		float fahrenheitFloat = 0.0f;
-		double celsiusDouble = 7.346789249256583;
+		double celsiusDouble = 14.249378;
 		double fahrenheitDouble = 0.0;
 		
 		fahrenheitFloat = celsiusFloat * 9/5 + 32;
